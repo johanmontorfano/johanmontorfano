@@ -1,9 +1,10 @@
 # Hi! I'm Johan 
 
-I’m Johan, a developer and decentralization enthusiast working on making the Web better.
+I’m Johan — a full-stack & blockchain engineer with 9+ years of experience.  
 
-My work spans from low-level systems programming to full-stack apps and decentralized infrastructure.  
-Whether building an operating system or rethinking how we value data, I aim to design tools that reflect complexity without exploiting it.
+I specialize in **decentralized identity, peer-to-peer infrastructures, and multi-chain dApps**.  
+
+My work mixes **hands-on engineering** and **research**, aiming to push the web towards **ownership, transparency, and decentralization**.
 
 [johanmontorfano.com](https://johanmontorfano.com)
 
