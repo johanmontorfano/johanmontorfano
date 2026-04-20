@@ -1,18 +1,18 @@
 # Hi! I'm Johan 
 
-Specialized in deep-tech related to signal processing, decentralization, and crytography, I built over the years a lot of powerful algorithms and apps.
+Specialized in deep-tech related to signal processing, decentralization, and cryptography, I built over the years a lot of powerful algorithms and apps.
 
 I master the following languages and frameworks:
 - Node.js/Bun Javascript/TypeScript development
-- Next.js/React/Solid.js and related JSX librairies
-- Tailwind with DaisyUI and related tailwind-based libraires
+- Next.js/React/Solid.js and related JSX libraries
+- Tailwind with DaisyUI and related tailwind-based librares
 - Flutter with platform-dependent features integration (Swift/Kotlin/Java)
 - Go _Golang_ with extensive experience with ffmpeg and cryptographic processes
 - Rust with extensive experience with libp2p, cryptography, and related technologies
-- Python with extensive experience with programmatic Docker/Podman orchestraction; OpenCV and FFMpeg workflows
+- Python with extensive experience with programmatic Docker/Podman orchestration; OpenCV and FFMpeg workflows
 
 For all languages above, I master the integration and development of the following technologies:
-- Cryptography alongside ZK _Zero-Knowledge_ proofs, secure hardware components, streamed encryption/decrpytion, KMS _key rotation, key delivery_ from-scratch design/integration. I built a real experience working with AEAD-related algorithms such as XChaCha20-Poly1305.
+- Cryptography alongside ZK _Zero-Knowledge_ proofs, secure hardware components, streamed encryption/decprytion, KMS _key rotation, key delivery_ from-scratch design/integration. I built a real experience working with AEAD-related algorithms such as XChaCha20-Poly1305.
 - FFMpeg and signal processing libraries. I have extensive experience with steganography, frame extraction, and frame analysis.
 - All web development good practices and quality integration, such as payload size reduction, streaming, and responsive design.
 - Docker/Podman/Serverless architecture/CI/CD integration and orchestration at scale.
