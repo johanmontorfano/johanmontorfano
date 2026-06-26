@@ -2,6 +2,8 @@
 
 Specialized in deep-tech related to signal processing, decentralization, and cryptography, I built over the years a lot of powerful algorithms and apps.
 
+> As time goes by, everything from GitHub is being migrated to [codeland.johanmontorfano.com](https://codeland.johanmontorfano.com)
+
 I master the following languages and frameworks:
 - Node.js/Bun Javascript/TypeScript development
 - Next.js/React/Solid.js and related JSX libraries
